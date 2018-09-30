@@ -16,5 +16,5 @@ What we can see here. We ahve 3 parts of this project.
 3) Class that allows you to create a two-way list,
    which will also be able to store objects representing large numbers as well as objects representing complex numbers.
    
-Polish full project description u cane find in this repo.
+Polish full project description You can find in this repo.
 
